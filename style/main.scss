@@ -1,0 +1,31 @@
+.wrapper {
+    max-width: 900px;
+    margin: 0 auto; 
+
+    h2 {
+        text-align: center;
+    }
+
+    .text_woman:not(.addMan, .addWoman) {
+        display: none;
+    }
+
+    .text_woman {
+        margin-top: 20px;
+        color: red;
+        font-weight: 600;
+    }
+    .addMan {
+        margin-top: 20px;
+        color: green;
+        font-weight: 600;
+    }
+    
+    // #123 {
+    //     width: 50px;
+    //     color: chocolate;
+    //     line-height: 32px;
+    // }
+
+
+}

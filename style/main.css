@@ -1,0 +1,20 @@
+.wrapper {
+  max-width: 900px;
+  margin: 0 auto;
+}
+.wrapper h2 {
+  text-align: center;
+}
+.wrapper .text_woman:not(.addMan, .addWoman) {
+  display: none;
+}
+.wrapper .text_woman {
+  margin-top: 20px;
+  color: red;
+  font-weight: 600;
+}
+.wrapper .addMan {
+  margin-top: 20px;
+  color: green;
+  font-weight: 600;
+}/*# sourceMappingURL=main.css.map */
