@@ -1,0 +1,22 @@
+{
+  "name": "01-02-2023-select-gender",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AndreyShuma/01-02-2023-Select-Gender.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AndreyShuma/01-02-2023-Select-Gender/issues"
+  },
+  "homepage": "https://github.com/AndreyShuma/01-02-2023-Select-Gender#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
